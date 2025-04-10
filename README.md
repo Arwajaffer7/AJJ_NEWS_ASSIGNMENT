@@ -1,0 +1,2 @@
+# AJJ_NEWS_ASSIGNMENT
+html
